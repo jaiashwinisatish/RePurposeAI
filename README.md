@@ -7,7 +7,8 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.1-38B2AC.svg)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-![RePurposeAI Hero](https://placeholder-for-hero-image.png)
+![RePurposeAI Hero](./assets/hero.png)
+
 
 ## 📖 Project Overview
 
