@@ -62,16 +62,17 @@ The platform intelligently analyzes video content through transcripts or metadat
 ## 📸 Screenshots & Demo
 
 ### Main Dashboard
-![Dashboard](image-1-url)
+![Dashboard](SaaS YouTube Content Repurposing - Google Chrome 11-01-2026 22_21_49.png)
 *Clean, modern interface for content generation*
 
 ### Viral Hook Generator
-![Viral Hooks](image-2-url)
+![Viral Hooks](SaaS YouTube Content Repurposing - Google Chrome 11-01-2026 22_22_16.png)
 *AI-powered viral hooks with effectiveness scores*
 
 ### Content Quality Analytics
-![Analytics](image-3-url)
+![Analytics](SaaS YouTube Content Repurposing - Google Chrome 11-01-2026 22_23_37.png)
 *Comprehensive quality metrics and improvement suggestions*
+
 
 ## 🚀 Installation & Setup
 
