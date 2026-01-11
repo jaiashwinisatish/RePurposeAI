@@ -258,12 +258,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Lucide** - For the comprehensive icon library
 - **React Community** - For excellent tooling and ecosystem
 
-## 📧 Contact & Support
-
-- **Email**: support@repurposeai.com
-- **Twitter**: [@RePurposeAI](https://twitter.com/repurposeai)
-- **Discord**: [Join our community](https://discord.gg/repurposeai)
-
 ---
 
 <p align="center">Made with ❤️ by the RePurposeAI Team</p>
